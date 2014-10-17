@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[itr:home|Door43 (itr)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-itr|d43-itr repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-itr/archive/master.zip|d43-itr.zip]]
+
+**Recent Changes**
+{{changes>ns = itr}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/itr|Ethnologue data]]
+
